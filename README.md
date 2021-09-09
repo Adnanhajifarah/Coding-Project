@@ -1,4 +1,6 @@
 # Coding-Project
+The objective of this project was for me to create code that can calculate all of these problems display the answer to the 
+console and run it through a test to make sure the calculations are all correct.
 
 
 1. Sum of Two Numbers
